@@ -1,3 +1,6 @@
+.
+
+📱 Phone Directory Management System (Python)
 
 A menu-driven Phone Directory application built using Python and Object-Oriented Programming (OOP) concepts.
 This program allows users to add contacts, search contacts, and display all stored contacts through a simple console-based interface.

@@ -1,3 +1,4 @@
+#Testing new user connection
 class Contact:
     phone_directory = []
 
